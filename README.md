@@ -7,6 +7,7 @@ Music Player
 ## How to use
 > New Java Project 1.8 and above
 > Added "MusicPlayer.jar" file to project
-> ```java
-    System.out.println();
- ```
+
+```java
+System.out.println();
+```
